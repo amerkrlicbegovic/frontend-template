@@ -1,15 +1,14 @@
-require('./js/bootstrap');
-require('./js/vendor/jquery.fitvids.js');
-require('./js/vendor/jquery.matchHeight.js');
-
+/**
+ * JQuery functions
+ */
 $(function() {
-    App.init();
+    Global.init();
 });
 
-App = {
+Global = {
     init: function() {
-        App.matchDivHeight();
-        App.lazyLoad();
+        Global.matchDivHeight();
+        Global.lazyLoad();
     },
     matchDivHeight: function() {
         $('.match-height').matchHeight();

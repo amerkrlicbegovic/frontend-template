@@ -45,7 +45,7 @@ include_once __DIR__ . "/_vars.php";
         <!-- end: header -->
 
         <!-- start: page content -->
-        <div class="main">
+        <main class="main container">
             <?php include_once $file; ?>
         </div>
         <!-- end: page content -->
