@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fa5c94d-c452-48bc-81c3-01fb221e1d60" name="Default Changelist" comment="" />
+    <list default="true" id="1fa5c94d-c452-48bc-81c3-01fb221e1d60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/android-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/android-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/android-icon-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/android-icon-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/android-icon-36x36.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/android-icon-36x36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/android-icon-48x48.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/android-icon-48x48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/android-icon-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/android-icon-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/android-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/android-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/android-icon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/android-icon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon-114x114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon-120x120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon-152x152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon-57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon-57x57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon-60x60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon-76x76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/apple-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/apple-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/favicon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/favicon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/fb-share.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/fb-share.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/ms-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/ms-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/ms-icon-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/ms-icon-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/ms-icon-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/ms-icon-310x310.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/ms-icon-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/ms-icon-70x70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/media/share.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/media/share.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +45,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZPWiqp6UZ5lW3voxFWCm8VT5Qg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/assets/js/vendor" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -44,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584741339909</updated>
       <workItem from="1584741341175" duration="4050000" />
+      <workItem from="1584824317554" duration="449000" />
     </task>
     <servers />
   </component>
