@@ -1,0 +1,31 @@
+// ---------------------------------------------
+// TYPOGRAPHY
+
+body {
+  font-weight: 300;
+  font-size: $default-font-size;
+  color: $color-body;
+}
+
+.heading-primary {
+  color: $color-light-blue;
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.heading-secondary {
+  font-size: 34px;
+  font-weight: 300;
+  text-align: center;
+  color: $color-light-blue;
+  text-transform: none;
+  line-height: 1;
+  margin: 0;
+  @include mq(desktop){
+    font-size: 45px;
+  }
+}

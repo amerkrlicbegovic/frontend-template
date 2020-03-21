@@ -1,0 +1,71 @@
+// ---------------------------------------------
+// VARIABLES
+
+// ---------------------------------------------
+// VARIABLES: COLORS
+$color-master: #626262 !default;
+$color-theme: #00aeef;
+$color-theme-hover: lighten($color-theme, 5%);
+$color-body: #262626;
+$color-primary: $color-theme;
+$color-secondary: #707070;
+$color-light-blue: #00aeef;
+$color-success: #81c868;
+$color-info: #53b0f8;
+$color-warning: #ffb20e;
+$color-danger: #CE041C;
+$color-complete: #007DC5;
+$color-white: #ffffff;
+$color-black: #000000;
+$color-grey: #F8F9FD;
+$color-light: #999999;
+$color-lighter: lighten($color-light, 1.4%);
+$color-lightest: lighten($color-light, 3.5%);
+$color-gray: #9896a6;
+$color-dark-hover: #e2e2e2;
+$color-dark:mix($color-master, #000, 45%) !default;
+$color-darker:mix($color-master, #000, 27%) !default;
+$color-darkest:mix($color-master, #000, 18%) !default;
+$grey: #F8F9FD;
+$dark: #1f1f1f;
+$darker: #292929;
+$dark-light: #B9B9B9;
+$light: #eeeeee;
+$dark-grey: #262626;
+$slate-grey: #444444;
+$silver: #cccccc;
+$color-heading: $dark;
+$paragraph-color: #777777;
+$background-light: #f8f9fa;
+$background-dark: #181818;
+$background-white: #fff;
+$background-black: #000;
+$background-theme: $color-theme;
+$background-grey: #F7F9FB;
+$background-primary: $color-theme;
+$background-secondary: $color-secondary;
+$background-success: $color-success;
+$background-info: $color-info;
+$background-warning: $color-warning;
+$background-danger: $color-danger;
+
+// ---------------------------------------------
+// VARIABLES: FONTS
+
+// FONTS: SIZE
+$default-font-size: 18px;
+// FONTS: FAMILIES
+$font-family-1: 'Open Sans', sans-serif;
+
+// ICON: SIZE
+$font-size-icon: 24px;
+
+// UTILITIES
+$border-width: 1px;
+$border-color: #F0F2F7;
+$border-color-dark: #2b2b2b;
+$border-radius: 5px;
+$border-background-color: $color-secondary;
+
+// BUTTONS
+$button-border-radius: 30px;

@@ -1,0 +1,84 @@
+// ---------------------------------------------
+// MAIN: STYLES
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+*:focus {
+    outline: none !important;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+figure{
+    margin-bottom: 0;
+}
+
+.main{
+    background-color: $grey;
+    position: relative;
+    padding-bottom: 100px;
+}
+
+a {
+    text-decoration: none !important;
+
+    &:focus {
+        outline: none;
+    }
+
+    @include transition(all .5s);
+    color: $color-white;
+}
+
+::selection {
+    background-color: $color-theme;
+    color: $color-white;
+}
+
+hr {
+    background-color: $color-dark;
+    margin-bottom: 30px;
+}
+.active{
+    color: $color-complete !important;
+    font-weight: 600 !important;
+}
+
+label.error {
+    color: #e74c3c !important;
+    position: absolute;
+    right: 0;
+    top: 14px;
+
+    .icon {
+        &:before {
+            display: block;
+        }
+    }
+}
+
+.container-fluid{
+    padding-left:30px;
+    padding-right:30px;
+    @include mq(desktop-xl){
+        padding-left:140px;
+        padding-right:140px;
+    }
+}
+
+.container{
+    padding-left:30px;
+    padding-right:30px;
+}

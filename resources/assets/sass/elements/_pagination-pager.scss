@@ -1,0 +1,54 @@
+// ---------------------------------------------
+// PAGER PAGINATION
+
+.pager-pagination{
+    background-color: $color-primary;
+    padding-bottom: 60px;
+    .pagination {
+        width: 100%;
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+        .page-item.active .page-link{
+            color: #fff;
+            background-color: $color-secondary;
+            border-color: transparent;
+        }
+        .page-link:focus {
+            box-shadow: none;
+        }
+        li {
+            display: inline-block;
+            margin: 0 2px;
+            a, span {
+                width: 36px;
+                height: 36px;
+                line-height: 34px;
+                text-align: center;
+                border-color: $color-white;
+                background-color: $color-secondary;
+                color: $color-white;
+                overflow: hidden;
+                padding: 0;
+                font-size: 14px;
+                &:hover {
+                    border-color: transparent;
+                    background-color: $color-white;
+                    color: #ffffff;
+                }
+            }
+            a,
+            span,
+            &:first-child a,
+            &:first-child span,
+            &:last-child a,
+            &:last-child span {
+                @include border-radius(0%);
+            }
+            .icon {
+                font-size: 10px;
+                vertical-align: middle;
+            }
+        }
+    }
+}

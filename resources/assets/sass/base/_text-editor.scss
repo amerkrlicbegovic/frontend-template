@@ -1,0 +1,60 @@
+// ---------------------------------------------
+// COMPONENTS TEXT EDITOR
+
+.text-editor {
+  color: $color-gray;
+
+  h1 {
+    font-size: 36px;
+    line-height: 1;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+;
+
+  h2 {
+    font-size: 30px;
+    line-height: 1;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+;
+
+  h3 {
+    font-size: 24px;
+    line-height: 1;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+;
+
+  ul, ol {
+    padding-left: 20px;
+    margin-bottom: 15px;
+
+    li {
+      padding-left: 10px;
+    }
+  ;
+  }
+
+  a {
+    color: $color-primary;
+    font-weight: bold;
+  }
+
+  a:hover {
+    color: $color-gray;
+  }
+
+  .fluid-width-video-wrapper {
+    margin-bottom: 20px;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 5px auto;
+  }
+}

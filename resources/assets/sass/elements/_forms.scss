@@ -1,0 +1,73 @@
+/* ----------------------------------------------------------------------
+Forms
+-------------------------------------------------------------------------*/
+//Form
+.form-control {
+    background-color: #fff;
+    padding: 10px 10px;
+    border: 2px solid transparent;
+    @include transition(all 0.3s);
+    @include box-shadow(none);
+    @include border-radius(0px);
+    &:focus {
+        border-color: transparent;
+        outline: none;
+        background-color: #ffffff;
+        @include box-shadow(none);
+    }
+
+    margin-bottom: 10px;
+}
+.uneditable-input {
+    height: 42px;
+    padding: 6px 10px;
+    overflow: hidden;
+    width: 100%;
+}
+.form-group {
+    margin-bottom: 0;
+    position: relative;
+    width: 100%;
+    input[type="text"],
+    input[type="password"],
+    input[type="search"],
+    input[type="email"] {
+        height: 60px;
+        font-size: 24px;
+        font-weight: 300;
+        padding-left: 15px;
+        @include mq(desktop){
+            padding-left: 50px;
+        }
+    }
+    input::placeholder,
+    textarea::placeholder{
+        font-size: 24px;
+        font-weight: 300;
+        padding-left: 0;
+    }
+
+    .form-control-label {
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 11px;
+        .required {
+            margin-left: 3px;
+        }
+    }
+    textarea {
+        resize: vertical;
+        font-size: 24px;
+        font-weight: 300;
+        padding-left: 15px;
+        @include mq(desktop){
+            padding-left: 50px;
+        }
+
+    }
+    &.form-group-upload {
+        label.error {
+            top: 0 !important;
+        }
+    }
+}
