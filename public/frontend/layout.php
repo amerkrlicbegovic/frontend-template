@@ -35,10 +35,10 @@ include_once __DIR__ . "/_vars.php";
         <!-- css -->
         <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="/assets/css/app.css<?php echo $assets_version ?>">
-        <link rel="stylesheet" href="/assets/fotns/sprite.svg">
     </head>
     <body>
-        <!-- start: header -->
+
+    <!-- start: header -->
         <header class="header">
             <?php include_once __DIR__ . "/_nav.php"; ?>
         </header>
@@ -47,7 +47,7 @@ include_once __DIR__ . "/_vars.php";
         <!-- start: page content -->
         <main class="main container">
             <?php include_once $file; ?>
-        </div>
+        </main>
         <!-- end: page content -->
 
         <!-- start: footer -->

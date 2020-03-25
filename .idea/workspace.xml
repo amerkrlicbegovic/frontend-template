@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fa5c94d-c452-48bc-81c3-01fb221e1d60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/frontend/sprite.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/frontend/_nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/frontend/_nav.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/frontend/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/frontend/homepage.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/frontend/layout.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/frontend/layout.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/app.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/js/modules/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/js/modules/functions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +31,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/assets/js/vendor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/frontend" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\amerk\AppData\Roaming\npm\node_modules\prettier" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\frontend_template\public\frontend" />
       <recent name="C:\wamp64\www\frontend_template\resources\assets\js\vendor" />
       <recent name="C:\wamp64\www\frontend_template\resources\assets\sass" />
       <recent name="C:\wamp64\www\frontend_template\public\assets" />
-      <recent name="C:\wamp64\www\frontend_template\public\frontend" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -62,7 +55,8 @@
       <updated>1584741339909</updated>
       <workItem from="1584741341175" duration="4050000" />
       <workItem from="1584824317554" duration="556000" />
-      <workItem from="1584829295311" duration="2085000" />
+      <workItem from="1584829295311" duration="2956000" />
+      <workItem from="1585178575950" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="Icons update">
       <created>1584824782801</created>
@@ -71,22 +65,32 @@
       <option name="project" value="LOCAL" />
       <updated>1584824782801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Vue integration">
+      <created>1584831654530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584831654530</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Icons update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Icons update" />
+    <MESSAGE value="Vue integration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vue integration" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1584831077179">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1585179231109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584824781777" />
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584831077179" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585179231109" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584747604465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -107,10 +111,11 @@
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1584742117285" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584747604465" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584824784650">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584831657190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584824784650" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584831657190" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1584746918241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
